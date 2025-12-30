@@ -16,7 +16,7 @@ A comprehensive Python project for detecting phishing URLs and emails using mach
 
 ```bash
 git clone https://github.com/muneebanjum06/ML-Based-Phising-Detector.git 
-cd phishing-detector
+cd ML-Based-Phising-Detector
 ```
 
 2. Install dependencies:
